@@ -1,0 +1,7 @@
+example_config_list:
+  - 'a'
+  - 'b'
+  - 'c'
+  
+example_config_string: a
+example_config_int: 1
